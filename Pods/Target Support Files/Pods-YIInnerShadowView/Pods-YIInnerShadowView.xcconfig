@@ -1,0 +1,1 @@
+PODS_YIINNERSHADOWVIEW_OTHER_LDFLAGS = -framework "QuartzCore"
