@@ -1,6 +1,6 @@
 # Fancy Inset View
 
-<img src='fancy-inset-view/screenshots/screenshot.png' width='250px' />
+<img src='screenshots/screenshot.png' width='250px' />
 
 ## Requirements
 
