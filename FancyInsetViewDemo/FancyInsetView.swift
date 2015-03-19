@@ -10,7 +10,7 @@ import UIKit
 
 class FancyInsetView: UIView {
 
-  var innerShadow: YIInnerShadowView = {
+  lazy var innerShadow: YIInnerShadowView = {
     let view = YIInnerShadowView(frame: CGRectZero)
     view.shadowRadius = 2.0
     view.shadowColor = UIColor(white: 4/255.0, alpha: 1.0)
