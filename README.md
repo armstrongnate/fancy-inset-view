@@ -36,4 +36,4 @@ view.layer.shadowOffset = CGSizeMake(0.0, 0.0)
 
 ## License
 
-Do whatever you want with it, just don't sell it.
+FancyInsetView is available under the MIT license. See the LICENSE file for more info.
